@@ -45,7 +45,7 @@
         <dependency>
             <groupId>org.jboss.xnio</groupId>
             <artifactId>xnio-nio</artifactId>
-            <version>3.8.0.Final</version>
+            <version>3.8.2.Final</version>
         </dependency>
 
         <!-- 使用 undertow 代替 tomcat -->
